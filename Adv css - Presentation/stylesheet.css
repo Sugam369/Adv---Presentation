@@ -1,0 +1,8 @@
+.modal-content {
+  background-color: #f0f8ff; /* Light blue background */
+  border-radius: 10px;
+}
+
+.modal-footer .btn {
+  font-size: 1.1rem;
+}
